@@ -1,3 +1,10 @@
+#Vue Vite, typescript, Vue-Router, Pinia 練習使用測試
+連接電影清單API
+搜尋後列出
+可加入收藏單功能(pinia)
+列出蒐藏清單
+
+
 # VueJS Template (Vite, typescript, Vue-Router, Pinia)
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -38,6 +45,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# 1223
-# 1223
-# 1223
