@@ -1,4 +1,4 @@
-#Vue Vite, typescript, Vue-Router, Pinia 練習使用測試
+# Vue Vite, typescript, Vue-Router, Pinia 練習使用測試
 連接電影清單API
 搜尋後列出
 可加入收藏單功能(pinia)
